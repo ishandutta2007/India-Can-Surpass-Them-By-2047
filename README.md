@@ -4,7 +4,7 @@
 
 By 2047, 🇮🇳 INDIA, Target GDP per Capita: **$15,000 – $18,000**
 
-By 2047, if India successfully climbs from its baseline rank (~148th) to the **75th–90th** range globally, it will have leapfrogged a massive block of roughly **64 "Middle Income" nations**. 
+By 2047, if India successfully climbs from its baseline rank (~148th) to the **75th–90th** range globally, it will have leapfrogged a massive block of roughly **54 "Middle Income" nations**. 
 
 The following tables categorize these nations by geographic region, showing their current economic starting points alongside their projected paths.
 
@@ -71,8 +71,6 @@ The following tables categorize these nations by geographic region, showing thei
 | 🇸🇿 Eswatini | $3,600 | $5,500 – $6,500 | 2030 |
 | 🇩🇯 Djibouti | $3,500 | $6,000 – $7,000 | 2031 |
 | 🇨🇬 Republic of Congo | $3,200 | $4,500 – $5,500 | 2028 |
-| 🇨🇲 Cameroon | $1,800 | $3,000 – $4,000 | Already Passed |
-| 🇸🇳 Senegal | $1,800 | $3,500 – $4,500 | Already Passed |
 | 🇨🇮 Ivory Coast | $2,700 | $5,000 – $6,500 | 2027 |
 
 ---
