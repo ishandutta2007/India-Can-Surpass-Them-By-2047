@@ -2,6 +2,8 @@
 
 ## 📈 India's Economic Projection (Target 2047)
 
+By 2047, 🇮🇳 INDIA, Target GDP per Capita: **$15,000 – $18,000**
+
 By 2047, if India successfully climbs from its baseline rank (~148th) to the **75th–90th** range globally, it will have leapfrogged a massive block of roughly **64 "Middle Income" nations**. 
 
 The following tables categorize these nations by geographic region, showing their current economic starting points alongside their projected paths.
@@ -28,7 +30,6 @@ The following tables categorize these nations by geographic region, showing thei
 | 🇧🇴 Bolivia | $3,900 | $6,000 – $7,000 | 2031 |
 | 🇭🇳 Honduras | $3,300 | $5,000 – $6,000 | 2028 |
 | 🇳🇮 Nicaragua | $2,700 | $4,000 – $5,000 | 2027 |
-| 🇭🇹 Haiti | $1,300 | $1,800 – $2,500 | Already Passed |
 | 🇻🇪 Venezuela | Volatile | Variable | 2030 |
 | 🇨🇺 Cuba | Volatile | Variable | 2032 |
 
@@ -49,8 +50,6 @@ The following tables categorize these nations by geographic region, showing thei
 | 🇱🇰 Sri Lanka | $3,600 | $6,000 – $7,500 | 2031 |
 | 🇹🇱 Timor-Leste | $2,500 | $3,500 – $4,500 | 2027 |
 | 🇱🇧 Lebanon | Volatile | Variable | 2030 |
-| 🇸🇾 Syria | Volatile | Variable | Already Passed |
-| 🇾🇪 Yemen | Volatile | Variable | Already Passed |
 
 ---
 
@@ -75,9 +74,6 @@ The following tables categorize these nations by geographic region, showing thei
 | 🇨🇲 Cameroon | $1,800 | $3,000 – $4,000 | Already Passed |
 | 🇸🇳 Senegal | $1,800 | $3,500 – $4,500 | Already Passed |
 | 🇨🇮 Ivory Coast | $2,700 | $5,000 – $6,500 | 2027 |
-| 🇬🇭 Ghana | $2,300 | $4,000 – $5,000 | Already Passed |
-| 🇳🇬 Nigeria | $1,100 | $2,200 – $3,000 | Already Passed |
-| 🇦🇴 Angola | $1,900 | $3,000 – $4,000 | Already Passed |
 
 ---
 
@@ -95,8 +91,6 @@ The following tables categorize these nations by geographic region, showing thei
 | 🇲🇩 Moldova | $5,700 | $11,000 – $13,000 | 2041 |
 | 🇺🇦 **Ukraine** | $3,600 | $9,000 – $11,500 | 2034 |
 | 🇺🇿 Uzbekistan | $2,700 | $6,000 – $7,500 | 2028 |
-| 🇰🇬 Kyrgyzstan | $1,900 | $3,500 – $4,500 | Already Passed |
-| 🇹🇯 Tajikistan | $1,200 | $2,200 – $3,000 | Already Passed |
 
 ---
 
